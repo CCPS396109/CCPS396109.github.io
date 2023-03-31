@@ -1,1 +1,31 @@
-
+<!DOCTYPE HTML>
+<html>
+<style>
+p{
+color: lavender-blue;
+  font-family: "Times New Roman";
+}
+ul{
+ color: pink;
+  font-family: "Times New Roman"
+}
+ol{
+  color: purple;
+font-family: "Times New Roman";
+}
+h1{
+  color: blue;
+  font-family: "Times New Roman";
+}
+header{
+  color: turqouise;
+  font-family: "Times New Roman"
+}
+body{
+  color: lavender-blue;
+  font-family: "Times New Roman";
+}
+footer{
+  color: lavender-blue;
+  font-family: "Times New Roman";
+}
